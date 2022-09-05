@@ -184,6 +184,4 @@ DEPENDENCIES
   tzinfo-data
   uglifier (= 3.0.0)
   web-console
-
-BUNDLED WITH
-   1.17.3
+  
